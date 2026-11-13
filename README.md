@@ -16,8 +16,7 @@ An AI-powered Resume Analyzer that helps job seekers evaluate their resumes agai
 
 - **Programming Language:** Python
 - **Frontend:** Streamlit
-- **AI/ML:** Natural Language Processing (NLP), AI-based text analysis
-- **Libraries:** [Add the libraries used in your implementation]
+- **AI/ML:** Natural Language Processing (NLP), AI-based text analysis, TextToSpeech, SpeechToText, SpeechRecognization, TextBlob
 - **File Processing:** PDF text extraction
 
 ## ⚙️ How It Works
